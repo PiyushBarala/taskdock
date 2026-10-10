@@ -4,7 +4,6 @@
 
 TaskDock lives in your system tray. Press `Ctrl+Space`, type a task, pick what to do next, and run a focus session. Everything stays on your computer: no account, no internet required, no telemetry, no cloud sync.
 
-> This repository only distributes installers for released versions. It contains no source code, accepts no pull requests and is not a place to discuss code.
 
 ## Download
 
